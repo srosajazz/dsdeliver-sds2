@@ -2,6 +2,8 @@
 
 Project link -> [Sergio Website](https://sergiorosa.netlify.app/).
 
+![Screenshot](Conceptual_model.png)
+
 # Introduction
 
 This app was create on the DevSuperior Webdeveloper week between 01/04/2021 - 01/10/2021.
@@ -9,6 +11,7 @@ This app was create on the DevSuperior Webdeveloper week between 01/04/2021 - 01
 # Technologies & Initial project setup
 
 ## Backend
+
 > Java
 > SpringBoot
 > Dependencies
@@ -25,6 +28,7 @@ This app was create on the DevSuperior Webdeveloper week between 01/04/2021 - 01
 > [PUT] / orders / {id} / delivered
 
 # DataBase
+
 - Postgres database
 - Test all endpoints
 - H2database
