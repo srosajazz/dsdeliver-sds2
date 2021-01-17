@@ -2,7 +2,6 @@
 
 Project link -> [Sergio Website](https://sergiorosa.netlify.app/).
 
-![Screenshot](Conceptual_model.png)
 
 # Introduction
 
