@@ -11,25 +11,24 @@ This app was create on the DevSuperior Webdeveloper week between 01/04/2021 - 01
 
 ## Backend
 
-> Java
-> SpringBoot
-> Dependencies
-> Properties files
-> Security configuration
-> Domain model
-> Entities and relationships
-> Object> relational mapping
-> Seed
-> Create endpoints
-> [GET] / products
-> [GET] / orders
-> [POST] / orders
-> [PUT] / orders / {id} / delivered
+- Java
+- SpringBoot
+- Dependencies
+- Properties files
+- Security configuration
+- Domain model
+- Entities and relationships
+- Object> relational mapping
+- Seed
+- Create endpoints
+- [GET] / products
+- [GET] / orders
+- [POST] / orders
+- [PUT] / orders / {id} / delivered
 
 # DataBase
 
 - Postgres database
-- Test all endpoints
 - H2database
 
 # Deployment
